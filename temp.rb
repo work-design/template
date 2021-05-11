@@ -1,4 +1,4 @@
-
+require 'pry'
 say '复制项目'
 
 binding.pry
