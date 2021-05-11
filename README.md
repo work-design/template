@@ -22,6 +22,5 @@ bin/rails app:template LOCATION=https://raw.github.com/work-design/template/mast
 ## Power By
 [Work Design](https://work.design)
 
-## LICENSE
-
-MIT
+## 许可
+遵循 MIT 协议
